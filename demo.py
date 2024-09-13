@@ -1,6 +1,7 @@
+a = 1 
+b = 2
+c = 6
 
-a = 5 
+hieu = c - b - a
 
-b = 6
-
-c = 7
+print(hieu)
